@@ -1,0 +1,349 @@
+ CentralNotice 
+Karl Josef Becker
+De Wikipedia, la enciclopedia libre
+Ir a la navegación
+Ir a la búsqueda
+Karl Josef Becker
+Información religiosa
+Ordenación sacerdotal
+31 de julio
+ de 
+1958
+Proclamación cardenalicia
+18 de febrero
+ de 
+2012
+Congregación
+Compañía de Jesús
+Información personal
+Nacimiento
+18 de abril
+ de 
+1928
+Colonia
+, 
+Alemania
+ 
+Alemania
+Fallecimiento
+10 de febrero
+ de 
+2015
+(86 años)
+Roma
+, 
+Italia
+ 
+Italia
+Alma máter
+Facultad de Filosofía y Teología Sankt Georgen
+Escudo de Karl Josef Becker
+[
+editar datos en Wikidata
+]
+Karl Josef Becker
+ (
+Colonia
+, 
+18 de abril
+ de 
+1928
+ - 
+Roma
+, 
+10 de febrero
+ de 
+2015
+)
+[
+1
+]
+​ fue un 
+teólogo
+ católico 
+alemán
+ y consultor de la 
+Congregación para la Doctrina de la Fe
+. Fue profesor en 
+Roma
+, en la 
+Universidad Gregoriana
+.
+
+En 1948 ingresó en la 
+Compañía de Jesús
+, se doctoró en teología y fue ordenado sacerdote el 31 de julio de 1958.
+
+Desde 1963 fue profesor de teología en la 
+Facultad de Filosofía y Teología Sankt Georgen
+ en Alemania.
+
+En 1969 fue llamado a Roma para enseñar 
+teología dogmática
+ en la 
+Pontificia Universidad Gregoriana
+. De 1972-1985 fue editor en jefe de la revista "Gregorianum".
+
+Además de dedicarse a la enseñanza y la investigación académica, en 1985 comenzó a trabajar junto con el cardenal prefecto 
+Joseph Ratzinger
+ como consultor de la Congregación para la Doctrina de la Fe y desde 1997 hasta 1999 participó en los preparativos de la 
+Declaración Conjunta sobre la Doctrina de la Justificación
+,
+[
+2
+]
+​ de la Comisión luterano-católico romana.
+
+Según 
+John Allen
+, Becker gozaba del respeto y la confianza del cardenal Joseph Ratzinger, el entonces prefecto de la Congregación para la Doctrina de la Fe (y futuro papa 
+Benedicto XVI
+). Más de un teólogo en problemas ha sido advertido de "ir a ver al Padre Becker". Se cree, por ejemplo, que Becker estuvo involucrado en la investigación de la [Santa Sede]] de su compañero 
+jesuita
+Jacques Dupuis
+ y su trabajo sobre el 
+pluralismo religioso
+.
+
+Becker escribió acerca de las interpretaciones del 
+subsistit in
+ (subsiste en) en la 
+Lumen Gentium
+.
+[
+3
+]
+​ En 2009, se anunció que iba a participar en las discusiones doctrinales entre la 
+Sociedad de San Pío X
+ y la 
+Santa Sede
+.
+
+El 6 de enero de 2012, el papa Benedicto XVI anunció su intención de crear al padre Becker cardenal de la Iglesia, en el transcurso de un 
+Consistorio
+ el 18 de febrero de 2012.
+[
+4
+]
+​ El 3 de febrero 2012 se anunció que, debido a su mala salud, Becker no iba a participar públicamente en el consistorio del 18 de febrero, pero que sería creado cardenal en una ceremonia privada más adelante.
+[
+5
+]
+​ Fue creado y proclamado 
+cardenal diácono
+ de 
+San Julián Mártir
+ en ese día.
+
+Falleció en 
+Roma
+ el 
+10 de febrero
+ de 
+2015
+.
+
+Referencias
+[
+editar
+]
+↑
+«RIP Cardinal Becker, SJ»
+. 
+Radio Vaticano
+(en inglés)
+. 10 de febrero de 2015
+. Consultado el 10 de febrero de 2015
+.
+ 
+↑
+Declaración conjunta sobre la doctrina de la justificación
+ (31 de octubre de 1999)
+↑
+«An Examination of Subsistit in: A Profound Theological Perspective»
+. Ewtn.com
+. Consultado el 11 de marzo de 2012
+.
+ 
+↑
+Annuncio di Concistorio per la creazione di nuovi Cardinali
+Archivado
+ el 23 de septiembre de 2013 en la 
+Wayback Machine
+.
+↑
+«Pater Karl Josef Becker SJ nimmt nicht am Konsistorium teil»
+. 
+Aktuelles
+. Consultado el 8 de febrero de 2012
+.
+ 
+Enlaces externos
+[
+editar
+]
+Holy See Press Office. 
+Cardinal Karl Josef Becker, S.I.
+(en inglés)
+Sala Stampa della Santa Sede. 
+Cardinale Karl Josef Becker, S.I.
+(en italiano)
+Control de autoridades
+Proyectos Wikimedia
+ Datos:
+Q61901
+ Multimedia:
+Karl Josef Becker
+Identificadores
+WorldCat
+VIAF
+:
+52763108
+ISNI
+:
+0000 0001 1763 5254
+GND
+:
+129257141
+LCCN
+:
+no2006021409
+SUDOC
+:
+137451555
+ Datos:
+Q61901
+ Multimedia:
+Karl Josef Becker
+ 
+NewPP limit report
+Parsed by mw1265
+Cached time: 20190521002621
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.428 seconds
+Real time usage: 0.649 seconds
+Preprocessor visited node count: 2389/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 25031/2097152 bytes
+Template argument size: 2131/2097152 bytes
+Highest expansion depth: 17/40
+Expensive parser function count: 7/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 5448/5000000 bytes
+Number of Wikibase entities loaded: 7/400
+Lua time usage: 0.275/10.000 seconds
+Lua memory usage: 3.51 MB/50 MB
+
+
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  601.868      1 -total
+ 45.62%  274.589      1 Plantilla:NF
+ 41.98%  252.673      1 Plantilla:Control_de_autoridades
+ 39.85%  239.821      1 Plantilla:Ficha_de_líder_religioso
+ 37.59%  226.266      1 Plantilla:Ficha
+ 19.52%  117.469      6 Plantilla:Propiedad
+  9.21%   55.416      1 Plantilla:Listaref
+  4.99%   30.043      1 Plantilla:Cita_noticia
+  2.23%   13.432      1 Plantilla:En
+  2.10%   12.654      1 Plantilla:Fecha_de_muerte
+
+ Saved in parser cache with key eswiki:pcache:idhash:5159711-0!canonical and timestamp 20190521002620 and revision id 108596176
+ 
+Obtenido de «
+https://es.wikipedia.org/w/index.php?title=Karl_Josef_Becker&oldid=108596176
+»
+Categorías
+: 
+Hombres
+Nacidos en 1928
+Fallecidos en 2015
+Colonienses (Alemania)
+Cardenales de Alemania
+Cardenales creados por Benedicto XVI
+Teólogos de Alemania del siglo XX
+Religiosos de Alemania del siglo XX
+Jesuitas de Alemania
+Ecumenismo
+Categorías ocultas: 
+Wikipedia:Artículos con identificadores VIAF
+Wikipedia:Artículos con identificadores ISNI
+Wikipedia:Artículos con identificadores GND
+Wikipedia:Artículos con identificadores LCCN
+Menú de navegación
+Herramientas personales
+No has accedido
+Discusión
+Contribuciones
+Crear una cuenta
+Acceder
+Espacios de nombres
+Artículo
+Discusión
+Variantes
+Vistas
+Leer
+Editar
+Ver historial
+Más
+Buscar
+Navegación
+Portada
+Portal de la comunidad
+Actualidad
+Cambios recientes
+Páginas nuevas
+Página aleatoria
+Ayuda
+Donaciones
+Notificar un error
+Imprimir/exportar
+Crear un libro
+Descargar como PDF
+Versión para imprimir
+En otros proyectos
+Wikimedia Commons
+Herramientas
+Lo que enlaza aquí
+Cambios en enlazadas
+Subir archivo
+Páginas especiales
+Enlace permanente
+Información de la página
+Elemento de Wikidata
+Citar esta página
+En otros idiomas
+العربية
+Català
+Čeština
+Deutsch
+English
+Suomi
+Français
+Italiano
+Latina
+Nederlands
+Polski
+Português
+Русский
+Slovenčina
+中文
+Editar enlaces
+ Esta página se editó por última vez el 10 jun 2018 a las 16:38.
+El texto está disponible bajo la 
+Licencia Creative Commons Atribución Compartir Igual 3.0
+;
+pueden aplicarse cláusulas adicionales. Al usar este sitio, usted acepta nuestros 
+términos de uso
+ y nuestra 
+política de privacidad
+. 
+Wikipedia® es una marca registrada de la 
+Fundación Wikimedia, Inc.
+, una organización sin ánimo de lucro.
+Política de privacidad
+Acerca de Wikipedia
+Limitación de responsabilidad
+Desarrolladores
+Declaración de cookies
+Versión para móviles
