@@ -1,0 +1,274 @@
+ CentralNotice 
+Walter H. Schottky
+De Wikipedia, la enciclopedia libre
+
+					Saltar a:					
+navegación
+, 					
+búsqueda
+Walter H. Schottky
+Información personal
+Nacimiento
+23 de julio
+ de 
+1886
+Zúrich
+, 
+Suiza
+Fallecimiento
+4 de marzo
+ de 
+1976
+ (89 años)
+Forchheim
+, 
+Alemania
+Nacionalidad
+Alemana 
+Educación
+Alma máter
+Universidad Humboldt de Berlín
+Supervisor doctoral
+Max Planck
+ y 
+Heinrich Rubens
+Información profesional
+Ocupación
+Físico
+, ingeniero y profesor universitario 
+Distinciones
+Medalla Hughes
+ 
+(1936)
+Carl Friedrich Gauss Medal 
+(1962)
+Werner-von-Siemens-Ring
+ 
+(1964)
+[
+editar datos en Wikidata
+]
+Walter Hermann Schottky
+ (
+23 de julio
+ de 1886, 
+Zürich
+, Suiza - 
+4 de marzo
+ de 1976, Pretzfeld, Alemania Occidental) fue un 
+físico
+alemán
+ que inventó la pantalla de la red de tubo de vacío en 1915 y la 
+válvula termoiónica
+tetrodo
+ en 1919 mientras trabajaba en Siemens. En 1938, Schottky formuló una teoría para predecir el efecto Schottky, que ahora se utiliza en los diodos Schottky.
+Fue galardonado en 1936 con la 
+medalla Hughes
+, concedida por la 
+Royal Society
+ «por su descubrimiento del efecto Schrot en la emisión termoiónica y su invención del tetrodo de pantalla de red y de un método superheterodino de recibir señales inalámbricas».
+[
+1
+]
+​ El efecto Schrot describe las variaciones espontáneas de alto desempeño en tubos de vacío, y fue bautizado así por Schottky, y que literalmente es el "pequeño efecto disparo".
+En 1964 recibió el 
+Anillo Werner von Siemens
+ en honor a su pionera labor en el desarrollo físico para la comprensión de muchos fenómenos que dieron lugar a numerosas e importantes aparatos técnicos, entre ellos amplificadores de tubo y semiconductores.
+Su padre era el matemático Hermann Schottky Friedrich (1851-1935). Llevan su nombre el efecto Schottky, el 
+defecto Schottky
+, la 
+barrera Schottky
+, el contacto Schottky y la anomalía Schottky.
+Nota: la invención del 
+superheterodino
+ se suele atribuir a 
+Edwin Armstrong
+. Sin embargo, Schottky publicó un artículo en Proc. IRE donde se demuestra que también había inventado ya algo parecido.
+Notas
+[
+editar
+]
+↑
+"for his discovery of the Schrot Effect in thermionic emission and his invention of the screen-grid tetrode and a superheterodyne method of receiving wireless signals". 
+Science
+. American Association for the Advancement of Science. 1936. p. 480.
+ 
+Este artículo o sección necesita 
+referencias
+ que aparezcan en una 
+publicación acreditada
+.
+Este aviso fue puesto el 17 de diciembre de 2010.
+Control de autoridades
+: 
+Q60347
+WorldCat
+VIAF
+: 
+25398128
+ISNI
+: 
+0000 0001 1610 0530
+BNF
+: 
+cb162100414
+(data)
+GND
+: 
+118759183
+LCCN
+: 
+n2011002428
+SNAC
+: 
+w65h7jtk
+SUDOC
+: 
+149887337
+MGP
+: 
+55830
+ 
+NewPP limit report
+Parsed by mw1264
+Cached time: 20180204153241
+Cache expiry: 86400
+Dynamic content: true
+CPU time usage: 0.392 seconds
+Real time usage: 0.480 seconds
+Preprocessor visited node count: 1830/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 19832/2097152 bytes
+Template argument size: 1406/2097152 bytes
+Highest expansion depth: 21/40
+Expensive parser function count: 3/500
+Lua time usage: 0.301/10.000 seconds
+Lua memory usage: 7.08 MB/50 MB
+
+
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  448.099      1 -total
+ 79.34%  355.543      1 Plantilla:Ficha_de_persona
+  8.64%   38.716      1 Plantilla:Gentilicio
+  8.10%   36.293      1 Plantilla:Referencias
+  6.96%   31.175      1 Plantilla:Metaplantilla_de_avisos
+  6.58%   29.504      1 Plantilla:NF
+  6.10%   27.329      2 Plantilla:Problemas_artículo/validar
+  5.71%   25.592      2 Plantilla:Y-e
+  5.34%   23.949      1 Plantilla:Listaref
+  4.75%   21.293      6 Plantilla:Reemplazar
+
+ Saved in parser cache with key eswiki:pcache:idhash:1616127-0!canonical and timestamp 20180204153241 and revision id 103144724
+ 
+
+						Obtenido de «
+https://es.wikipedia.org/w/index.php?title=Walter_H._Schottky&oldid=103144724
+»					
+Categorías
+: 
+Hombres
+Nacidos en 1886
+Fallecidos en 1976
+Físicos de Alemania
+Ingenieros de Alemania
+Medalla Hughes
+Candidatos al premio Nobel de Física
+Candidatos al Premio Nobel de Química
+Categorías ocultas: 
+Wikipedia:Artículos que necesitan referencias
+Wikipedia:Referenciar física
+Wikipedia:Artículos con identificadores VIAF
+Wikipedia:Artículos con identificadores ISNI
+Wikipedia:Artículos con identificadores BNF
+Wikipedia:Artículos con identificadores GND
+Wikipedia:Artículos con identificadores LCCN
+Wikipedia:Artículos con identificadores SNAC
+Menú de navegación
+Herramientas personales
+No has accedido
+Discusión
+Contribuciones
+Crear una cuenta
+Acceder
+Espacios de nombres
+Artículo
+Discusión
+Variantes
+Vistas
+Leer
+Editar
+Ver historial
+Más
+Buscar
+Navegación
+Portada
+Portal de la comunidad
+Actualidad
+Cambios recientes
+Páginas nuevas
+Página aleatoria
+Ayuda
+Donaciones
+Notificar un error
+Imprimir/exportar
+Crear un libro
+Descargar como PDF
+Versión para imprimir
+En otros proyectos
+Wikimedia Commons
+Herramientas
+Lo que enlaza aquí
+Cambios en enlazadas
+Subir archivo
+Páginas especiales
+Enlace permanente
+Información de la página
+Elemento de Wikidata
+Citar esta página
+En otros idiomas
+العربية
+تۆرکجه
+Беларуская (тарашкевіца)‎
+Български
+বাংলা
+Català
+Čeština
+Deutsch
+English
+Eesti
+Euskara
+فارسی
+Français
+Bahasa Indonesia
+Italiano
+日本語
+Lietuvių
+Malagasy
+मराठी
+Nederlands
+Polski
+Português
+Română
+Русский
+Svenska
+Українська
+中文
+Editar enlaces
+ Se editó esta página por última vez el 4 nov 2017 a las 19:44.
+El texto está disponible bajo la 
+Licencia Creative Commons Atribución Compartir Igual 3.0
+;
+pueden aplicarse cláusulas adicionales. Al usar este sitio, usted acepta nuestros 
+términos de uso
+ y nuestra 
+política de privacidad
+. 
+Wikipedia® es una marca registrada de la 
+Fundación Wikimedia, Inc.
+, una organización sin ánimo de lucro.
+Normativa de privacidad
+Acerca de Wikipedia
+Limitación de responsabilidad
+Desarrolladores
+Declaración de cookies
+Versión para móviles

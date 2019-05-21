@@ -1,0 +1,215 @@
+ CentralNotice 
+Índice Merck
+De Wikipedia, la enciclopedia libre
+
+					Saltar a:					
+navegación
+, 					
+búsqueda
+Este artículo o sección necesita 
+referencias
+ que aparezcan en una 
+publicación acreditada
+.
+Este aviso fue puesto el 19 de mayo de 2010.
+
+primera edición
+El 
+Índice Merck
+ es una 
+enciclopedia
+ de 
+sustancias químicas
+, 
+fármacos
+ y 
+biomoléculas
+ con más de 10.000 monografías de sustancias o grupos de compuestos relacionados. También incluye un apéndice con nombres de reacciones de 
+química orgánica
+. Es publicada por la compañía farmacéutica norteamericana 
+Merck & Co.
+ y está disponible por suscripción en una forma electrónica con 
+motor de búsqueda
+ incluido, comúnmente usado por bibliotecas e instituciones de investigación mediante acceso a su dirección en internet.
+La edición actual es la 14ª, publicada en octubre de 2006.
+Las monografías del Índice Merck usualmente contienen:
+el 
+número CAS
+sinónimos de la sustancia tales como otros nombres comunes y nombre sistemático según las sugerencias de la 
+IUPAC
+fórmula química
+peso molecular
+composición centesimal
+fórmula estructural
+descripción de la apariencia de la sustancia
+punto de fusión
+ y 
+ebullición
+solubilidad
+ en 
+solventes
+ normalmente usados en laboratorios
+referencias a la literatura con respecto a la 
+síntesis química
+una categoría terapéutica, en caso de tratarse de un fármaco
+[
+1
+]
+​
+Índice
+1
+Ediciones anteriores
+2
+Véase también
+3
+Referencias
+4
+Enlaces externos
+Ediciones anteriores
+[
+editar
+]
+1ª (1889)
+2ª (1896)
+3ª (1907)
+4ª (1930)
+5ª (1940)
+6ª (1952)
+7ª (1960)
+8ª (1968)
+9ª (1976)
+10ª (1983), 
+ISBN 0-911910-27-1
+11ª (1989), 
+ISBN 0-911910-28-X
+12ª (1996), 
+ISBN 0-911910-12-3
+13ª (2001), 
+ISBN 0-911910-13-1
+14ª (2006), 
+ISBN 978-0-911910-00-1
+Véase también
+[
+editar
+]
+Bases de datos académicas y motores de búsqueda
+Referencias
+[
+editar
+]
+↑
+THE MERCK INDEX ONLINE [304]
+Enlaces externos
+[
+editar
+]
+Información oficial (en inglés)
+Índice Merck
+ 
+NewPP limit report
+Parsed by mw1261
+Cached time: 20180130233633
+Cache expiry: 86400
+Dynamic content: true
+CPU time usage: 0.080 seconds
+Real time usage: 0.096 seconds
+Preprocessor visited node count: 1484/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 3267/2097152 bytes
+Template argument size: 1047/2097152 bytes
+Highest expansion depth: 21/40
+Expensive parser function count: 0/500
+Lua time usage: 0.014/10.000 seconds
+Lua memory usage: 967 KB/50 MB
+
+
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   66.945      1 -total
+ 91.98%   61.574      1 Plantilla:Referencias
+ 60.76%   40.674      1 Plantilla:Metaplantilla_de_avisos
+ 54.77%   36.664      2 Plantilla:Problemas_artículo/validar
+ 34.84%   23.322     12 Plantilla:Str_mid
+ 33.06%   22.134     24 Plantilla:Trim
+  4.51%    3.016      1 Plantilla:Listaref
+
+ Saved in parser cache with key eswiki:pcache:idhash:3787510-0!canonical and timestamp 20180130233633 and revision id 89553763
+ 
+
+						Obtenido de «
+https://es.wikipedia.org/w/index.php?title=Índice_Merck&oldid=89553763
+»					
+Categorías ocultas: 
+Wikipedia:Artículos que necesitan referencias
+Wikipedia:Referenciar (aún sin clasificar)
+Wikipedia:Páginas con enlaces mágicos de ISBN
+Menú de navegación
+Herramientas personales
+No has accedido
+Discusión
+Contribuciones
+Crear una cuenta
+Acceder
+Espacios de nombres
+Artículo
+Discusión
+Variantes
+Vistas
+Leer
+Editar
+Ver historial
+Más
+Buscar
+Navegación
+Portada
+Portal de la comunidad
+Actualidad
+Cambios recientes
+Páginas nuevas
+Página aleatoria
+Ayuda
+Donaciones
+Notificar un error
+Imprimir/exportar
+Crear un libro
+Descargar como PDF
+Versión para imprimir
+Herramientas
+Lo que enlaza aquí
+Cambios en enlazadas
+Subir archivo
+Páginas especiales
+Enlace permanente
+Información de la página
+Elemento de Wikidata
+Citar esta página
+En otros idiomas
+العربية
+Deutsch
+English
+فارسی
+עברית
+Italiano
+Lietuvių
+Português
+Русский
+Svenska
+中文
+Editar enlaces
+ Se editó esta página por última vez el 2 mar 2016 a las 22:45.
+El texto está disponible bajo la 
+Licencia Creative Commons Atribución Compartir Igual 3.0
+;
+pueden aplicarse cláusulas adicionales. Al usar este sitio, usted acepta nuestros 
+términos de uso
+ y nuestra 
+política de privacidad
+. 
+Wikipedia® es una marca registrada de la 
+Fundación Wikimedia, Inc.
+, una organización sin ánimo de lucro.
+Normativa de privacidad
+Acerca de Wikipedia
+Limitación de responsabilidad
+Desarrolladores
+Declaración de cookies
+Versión para móviles

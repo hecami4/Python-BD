@@ -1,0 +1,238 @@
+ CentralNotice 
+Aeropuerto de Waspán
+De Wikipedia, la enciclopedia libre
+
+					Saltar a:					
+navegación
+, 					
+búsqueda
+Aeropuerto de Waspán
+IATA
+: 
+WSP
+OACI
+: 
+MNWP
+Localización
+Coordenadas
+14°44′16″N
+83°58′33″O
+﻿ / ﻿
+14.737777777778,
+-83.975833333333
+Coordenadas
+: 
+14°44′16″N
+83°58′33″O
+﻿ / ﻿
+14.737777777778,
+-83.975833333333
+Ubicación
+Waspán
+, 
+AN
+País
+Nicaragua
+Elevación
+35 
+m
+ / 115 
+pies
+ 
+(
+msnm
+)
+Detalles del aeropuerto
+Tipo
+Público
+Operador
+República de Nicaragua
+Pistas
+Dirección
+Largo
+Superficie
+metros
+pies
+03/21
+4,101
+1,250
+grava
+Mapa
+WSP / MNWP
+WSP / MNWP (Nicaragua)
+[
+editar datos en Wikidata
+]
+El 
+Aeropuerto Waspán
+ (
+código IATA
+: 
+WSP
+, 
+código OACI
+: 
+MNWP
+) es un 
+aeropuerto
+ que sirve a la localidad de 
+Waspán
+ en la 
+Región Autónoma de la Costa Caribe Norte
+, 
+Nicaragua
+.
+[
+1
+]
+​
+Índice
+1
+Aerolíneas domésticas
+1.1
+Véase también
+2
+Referencias
+3
+Enlaces externos
+Aerolíneas domésticas
+[
+editar
+]
+Ciudades
+Nombre del Aeropuerto
+Aerolíneas
+Managua
+Aeropuerto Internacional de Managua
+La Costeña
+Véase también
+[
+editar
+]
+Aeropuertos de Nicaragua
+Referencias
+[
+editar
+]
+↑
+«Aeropuerto de Waspán»
+. MNWP - Airport
+. Consultado el 17 de mayo de 2013
+.
+ 
+Enlaces externos
+[
+editar
+]
+Empresa Administradora de Aeropuertos Internacionales
+ 
+NewPP limit report
+Parsed by mw1337
+Cached time: 20180201021334
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.168 seconds
+Real time usage: 0.227 seconds
+Preprocessor visited node count: 2405/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 39413/2097152 bytes
+Template argument size: 1473/2097152 bytes
+Highest expansion depth: 17/40
+Expensive parser function count: 1/500
+Lua time usage: 0.087/10.000 seconds
+Lua memory usage: 2.51 MB/50 MB
+
+
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  204.746      1 -total
+ 80.68%  165.196      1 Plantilla:Ficha_de_aeropuerto
+ 74.58%  152.696      1 Plantilla:Ficha
+ 39.90%   81.689     11 Plantilla:Propiedad
+ 14.78%   30.254      1 Plantilla:Listaref
+ 13.57%   27.791      1 Plantilla:Mapa_de_localización
+ 12.95%   26.514      1 Plantilla:Cita_web
+ 11.14%   22.801      1 Plantilla:Coord
+ 10.41%   21.321      1 Plantilla:Ficha/Columnas
+  5.38%   11.025      5 Plantilla:Reemplazar
+
+ Saved in parser cache with key eswiki:pcache:idhash:5832743-0!canonical and timestamp 20180201021334 and revision id 104971993
+ 
+
+						Obtenido de «
+https://es.wikipedia.org/w/index.php?title=Aeropuerto_de_Waspán&oldid=104971993
+»					
+Categorías
+: 
+Edificios y estructuras de la Región Autónoma del Atlántico Norte
+Aeropuertos de Nicaragua
+Categorías ocultas: 
+Wikipedia:Artículos con datos locales
+Wikipedia:Artículos con datos por trasladar a Wikidata
+Wikipedia:Artículos con coordenadas en Wikidata
+Menú de navegación
+Herramientas personales
+No has accedido
+Discusión
+Contribuciones
+Crear una cuenta
+Acceder
+Espacios de nombres
+Artículo
+Discusión
+Variantes
+Vistas
+Leer
+Editar
+Ver historial
+Más
+Buscar
+Navegación
+Portada
+Portal de la comunidad
+Actualidad
+Cambios recientes
+Páginas nuevas
+Página aleatoria
+Ayuda
+Donaciones
+Notificar un error
+Imprimir/exportar
+Crear un libro
+Descargar como PDF
+Versión para imprimir
+Herramientas
+Lo que enlaza aquí
+Cambios en enlazadas
+Subir archivo
+Páginas especiales
+Enlace permanente
+Información de la página
+Elemento de Wikidata
+Citar esta página
+En otros idiomas
+Cebuano
+English
+فارسی
+Bahasa Melayu
+Polski
+Svenska
+Тоҷикӣ
+Editar enlaces
+ Se editó esta página por última vez el 17 ene 2018 a las 14:25.
+El texto está disponible bajo la 
+Licencia Creative Commons Atribución Compartir Igual 3.0
+;
+pueden aplicarse cláusulas adicionales. Al usar este sitio, usted acepta nuestros 
+términos de uso
+ y nuestra 
+política de privacidad
+. 
+Wikipedia® es una marca registrada de la 
+Fundación Wikimedia, Inc.
+, una organización sin ánimo de lucro.
+Normativa de privacidad
+Acerca de Wikipedia
+Limitación de responsabilidad
+Desarrolladores
+Declaración de cookies
+Versión para móviles

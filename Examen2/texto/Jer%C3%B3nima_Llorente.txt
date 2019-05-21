@@ -1,0 +1,213 @@
+ CentralNotice 
+Jerónima Llorente
+De Wikipedia, la enciclopedia libre
+
+					Saltar a:					
+navegación
+, 					
+búsqueda
+Jerónima Llorente
+La actriz Jerónima Llorente en una litografía de 
+Luis Carlos Legrand
+.
+Información personal
+Nacimiento
+1815
+Fallecimiento
+1848
+Lugar de sepultura
+Cementerio de San Justo
+Nacionalidad
+Española
+[
+editar datos en Wikidata
+]
+Jerónima Llorente
+ (
+1815
+-
+1848
+) fue una 
+actriz
+española
+ de la primera mitad del siglo 
+xix
+.
+Índice
+1
+Biografía
+2
+Referencias
+3
+Bibliografía
+4
+Enlaces externos
+Biografía
+[
+editar
+]
+Debutó con 15 años en el 
+Teatro del Príncipe
+, donde dirigida por 
+Juan Grimaldi
+, llegó a alcanzar gran popularidad en la escena teatral, interpretando personajes de fuerte carácter. Falleció en 1848, y tiene dedicada una calle en Madrid desde el año 1887.
+[
+1
+]
+​
+[
+2
+]
+​
+Sus restos, procedentes del cementerio de San Sebastián, recibieron nueva sepultura en el Panteón de Hombres Ilustres de la madrileña 
+Sacramental de San Justo
+ en 1934.
+[
+3
+]
+​
+Referencias
+[
+editar
+]
+↑
+Pascual Lavilla, 2009
+, p. 137.
+↑
+«Evolución de los topónimos femeninos»
+. 
+Memoria de mujeres en el callejero de Madrid
+: 37.
+ 
+↑
+«El lugar donde reposarán los restos de Ramón Gómez de la Serna»
+. 
+ABC
+ (Madrid): 47. 23 de enero de 1963.
+ 
+Diario La España de Madrid, 27 de enero de 1850
+Bibliografía
+[
+editar
+]
+Pascual Lavilla
+, Isabel (2009). 
+«A propósito de «Una actriz en miniatura» (1880)»
+. 
+Stichomythia
+ (8): 127-137. 
+ISSN
+ 
+1579-7368
+.
+ 
+Enlaces externos
+[
+editar
+]
+Wikimedia Commons
+ alberga contenido multimedia sobre 
+Jerónima Llorente
+ 
+NewPP limit report
+Parsed by mw1311
+Cached time: 20180203165518
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.100 seconds
+Real time usage: 0.140 seconds
+Preprocessor visited node count: 385/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 9963/2097152 bytes
+Template argument size: 237/2097152 bytes
+Highest expansion depth: 10/40
+Expensive parser function count: 0/500
+Lua time usage: 0.060/10.000 seconds
+Lua memory usage: 2.04 MB/50 MB
+
+
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  122.936      1 -total
+ 65.78%   80.870      1 Plantilla:Ficha_de_persona
+ 20.54%   25.253      1 Plantilla:Listaref
+ 18.68%   22.967      3 Plantilla:Cita_publicación
+ 18.19%   22.357      1 Plantilla:Gentilicio
+  5.34%    6.566      1 Plantilla:Sfn
+  4.07%    5.009      1 Plantilla:Commonscat
+  2.91%    3.575      1 Plantilla:Título_sin_coletilla
+  2.19%    2.691      1 Plantilla:Refn
+  0.92%    1.136      2 Plantilla:Versalita
+
+ Saved in parser cache with key eswiki:pcache:idhash:2867219-0!canonical and timestamp 20180203165518 and revision id 102567670
+ 
+
+						Obtenido de «
+https://es.wikipedia.org/w/index.php?title=Jerónima_Llorente&oldid=102567670
+»					
+Categorías
+: 
+Mujeres
+Actores de teatro de España
+Actores de España del siglo XIX
+Menú de navegación
+Herramientas personales
+No has accedido
+Discusión
+Contribuciones
+Crear una cuenta
+Acceder
+Espacios de nombres
+Artículo
+Discusión
+Variantes
+Vistas
+Leer
+Editar
+Ver historial
+Más
+Buscar
+Navegación
+Portada
+Portal de la comunidad
+Actualidad
+Cambios recientes
+Páginas nuevas
+Página aleatoria
+Ayuda
+Donaciones
+Notificar un error
+Imprimir/exportar
+Crear un libro
+Descargar como PDF
+Versión para imprimir
+En otros proyectos
+Wikimedia Commons
+Herramientas
+Lo que enlaza aquí
+Cambios en enlazadas
+Subir archivo
+Páginas especiales
+Enlace permanente
+Información de la página
+Elemento de Wikidata
+Citar esta página
+En otros idiomas
+Añadir enlaces
+ Se editó esta página por última vez el 13 oct 2017 a las 23:38.
+El texto está disponible bajo la 
+Licencia Creative Commons Atribución Compartir Igual 3.0
+;
+pueden aplicarse cláusulas adicionales. Al usar este sitio, usted acepta nuestros 
+términos de uso
+ y nuestra 
+política de privacidad
+. 
+Wikipedia® es una marca registrada de la 
+Fundación Wikimedia, Inc.
+, una organización sin ánimo de lucro.
+Normativa de privacidad
+Acerca de Wikipedia
+Limitación de responsabilidad
+Desarrolladores
+Declaración de cookies
+Versión para móviles
