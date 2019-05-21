@@ -1,0 +1,321 @@
+ CentralNotice 
+Salvia lanigera
+De Wikipedia, la enciclopedia libre
+Ir a la navegación
+Ir a la búsqueda
+ 
+Salvia lanigera
+Taxonomía
+Reino
+:
+Plantae
+División
+:
+Magnoliophyta
+Clase
+:
+Magnoliopsida
+Orden
+:
+Lamiales
+Familia
+:
+Lamiaceae
+Subfamilia:
+Nepetoideae
+Tribu
+:
+Mentheae
+Género
+:
+Salvia
+Especie
+:
+S. lanigera
+Poir.
+[
+editar datos en Wikidata
+]
+Salvia lanigera
+ es una 
+especie
+ de 
+planta herbácea
+perennifolia
+ perteneciente a la 
+familia
+ de las 
+lamiáceas
+. Es originaria del norte de 
+Egipto
+ y 
+Arabia
+, hasta el sur de 
+Turquía
+ e 
+Irán
+. Crece en los 
+desiertos
+ de baja altitud, en suelos arenosos y arenisca calcárea.
+[
+1
+]
+​
+
+Detalle de la planta
+Índice
+1
+Descripción
+2
+Cultivo
+3
+Taxonomía
+4
+Véase también
+5
+Referencias
+6
+Enlaces externos
+Descripción
+[
+editar
+]
+En el cultivo que alcanza un tamaño de 10 a 20 cm de alto, y hasta 25 cm en su hábitat natural. La planta es de un color suave pálido gris-verde, desprendiendo un olor acre cuando se rompe, está cubierta de pelos cortos erectos. Las hojas estrechas están profundamente divididas, con segmentos lineales. Las flores violetas crecen en 
+verticilos
+ en número de 6-8, cubiertas de largos pelos blancos. 
+
+Cultivo
+[
+editar
+]
+En climas fríos se trata como una 
+planta anual
+, con libertad en sí se resiembra con semillas de hibernación, incluso en climas bajo cero. Se adapta a espacios pequeños entre otras plantas, y prefieren el pleno sol, suelo somero, riego moderado y buen drenaje.
+[
+1
+]
+​
+
+Taxonomía
+[
+editar
+]
+Salvia lanigera
+ fue descrita por 
+Jean Louis Marie Poiret
+ y publicado en 
+Encycl. Suppl.
+ 5: 49 1817.
+[
+2
+]
+​
+
+Etimología
+Salvia
+: nombre 
+latino
+ de la "salvia", que procede del 
+latín
+salvus
+, que significa "salud" o 
+salveo
+, que significa a "curar", aludiendo a las virtudes medicinales de las plantas de este género.
+
+lanigera
+: 
+epíteto
+latino
+ que siognifica "con lana", en referencia a los pelos que cubren todas las partes de la planta.
+[
+3
+]
+​ 
+
+Sinonimia
+Salvia verbenaca subsp. lanigera
+ (Poir.) O.Bolòs & Vigo	
+[
+4
+]
+​
+[
+5
+]
+​
+Véase también
+[
+editar
+]
+Terminología descriptiva de las plantas
+Anexo:Cronología de la botánica
+Historia de la Botánica
+Características de las lamiáceas
+Referencias
+[
+editar
+]
+↑ 
+a
+b
+Clebsch, Betsy; Carol D. Barner (2003). 
+The New Book of Salvias
+. Timber Press. p. 168. 
+ISBN
+ 
+978-0-88192-560-9
+.
+ 
+La referencia utiliza el parámetro obsoleto 
+|coautores=
+ (
+ayuda
+)
+↑
+«
+Salvia lanigera
+»
+. 
+Tropicos.org. 
+Missouri Botanical Garden
+. Consultado el 13 de diciembre de 2012
+.
+ 
+↑
+En Epítetos Botánicos
+↑
+Salvia lanigera
+ en PlantList
+↑
+«
+Salvia lanigera
+»
+. 
+World Checklist of Selected Plant Families
+. Consultado el 13 de diciembre de 2012
+.
+ 
+Enlaces externos
+[
+editar
+]
+Wikimedia Commons
+ alberga una categoría multimedia sobre 
+Salvia lanigera
+.
+ 
+NewPP limit report
+Parsed by mw1261
+Cached time: 20190519183304
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.228 seconds
+Real time usage: 0.301 seconds
+Preprocessor visited node count: 1249/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 12912/2097152 bytes
+Template argument size: 629/2097152 bytes
+Highest expansion depth: 9/40
+Expensive parser function count: 0/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 5038/5000000 bytes
+Number of Wikibase entities loaded: 1/400
+Lua time usage: 0.072/10.000 seconds
+Lua memory usage: 2.42 MB/50 MB
+
+
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  242.533      1 -total
+ 61.46%  149.049      1 Plantilla:Ficha_de_taxón
+ 54.16%  131.352      1 Plantilla:Ficha
+ 21.15%   51.289      1 Plantilla:Listaref
+ 12.75%   30.927      1 Plantilla:Cita_libro
+ 10.50%   25.476      2 Plantilla:Propiedad
+  8.98%   21.774      1 Plantilla:Commonscat
+  2.87%    6.951      2 Plantilla:Cita_web
+  2.76%    6.697      1 Plantilla:Título_sin_coletilla
+  1.68%    4.072      1 Plantilla:Ficha_de_taxón/formato_de_título
+
+ Saved in parser cache with key eswiki:pcache:idhash:5533547-0!canonical and timestamp 20190519183304 and revision id 104946164
+ 
+Obtenido de «
+https://es.wikipedia.org/w/index.php?title=Salvia_lanigera&oldid=104946164
+»
+Categoría
+: 
+Salvia
+Categorías ocultas: 
+Wikipedia:Páginas con plantillas con argumentos duplicados
+Wikipedia:Páginas con referencias con parámetros obsoletos
+Menú de navegación
+Herramientas personales
+No has accedido
+Discusión
+Contribuciones
+Crear una cuenta
+Acceder
+Espacios de nombres
+Artículo
+Discusión
+Variantes
+Vistas
+Leer
+Editar
+Ver historial
+Más
+Buscar
+Navegación
+Portada
+Portal de la comunidad
+Actualidad
+Cambios recientes
+Páginas nuevas
+Página aleatoria
+Ayuda
+Donaciones
+Notificar un error
+Imprimir/exportar
+Crear un libro
+Descargar como PDF
+Versión para imprimir
+En otros proyectos
+Wikimedia Commons
+Wikiespecies
+Herramientas
+Lo que enlaza aquí
+Cambios en enlazadas
+Subir archivo
+Páginas especiales
+Enlace permanente
+Información de la página
+Elemento de Wikidata
+Citar esta página
+En otros idiomas
+العربية
+Azərbaycanca
+Cebuano
+English
+فارسی
+עברית
+Svenska
+Tiếng Việt
+Winaray
+Editar enlaces
+ Esta página se editó por última vez el 16 ene 2018 a las 10:55.
+El texto está disponible bajo la 
+Licencia Creative Commons Atribución Compartir Igual 3.0
+;
+pueden aplicarse cláusulas adicionales. Al usar este sitio, usted acepta nuestros 
+términos de uso
+ y nuestra 
+política de privacidad
+. 
+Wikipedia® es una marca registrada de la 
+Fundación Wikimedia, Inc.
+, una organización sin ánimo de lucro.
+Política de privacidad
+Acerca de Wikipedia
+Limitación de responsabilidad
+Desarrolladores
+Declaración de cookies
+Versión para móviles
